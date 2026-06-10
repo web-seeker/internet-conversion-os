@@ -1,5 +1,5 @@
 <p align="center">
-  <img src=".trae/skills/internet-conversion-os/icon.png" width="120" alt="Internet Conversion OS">
+  <img src="internet-conversion-os/icon.png" width="120" alt="Internet Conversion OS">
 </p>
 
 <h1 align="center">互联网转化OS</h1>
