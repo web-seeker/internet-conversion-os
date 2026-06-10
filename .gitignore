@@ -1,0 +1,5 @@
+# Ignore everything in .trae except skills
+.trae/*
+!.trae/skills/
+.trae/skills/*
+!.trae/skills/internet-conversion-os/
