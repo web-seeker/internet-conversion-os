@@ -112,7 +112,7 @@
 
 ### 安装
 
-将 `.trae/skills/internet-conversion-os/` 目录复制到你的 TRAE 工作区项目的 `.trae/skills/` 下。
+将 `internet-conversion-os/` 目录复制到你的 AI 工作区项目的技能目录下（具体路径取决于你使用的 AI 工具平台）。
 
 ### 第一次使用
 
@@ -180,10 +180,11 @@
 
 ## 技术信息
 
-- **类型**：TRAE Agent Skill（自主运行 SubAgent）
+- **类型**：AI Agent Skill（自主运行 SubAgent）
 - **上下文**：支持同类型对话上下文感知（`same_type`），可基于前次输出迭代优化
 - **触发方式**：自动识别营销/转化/增长相关需求，也可手动指定模块
 - **输出格式**：结构化方案（文字+表格+可视化描述），支持全链路文档输出
+- **兼容平台**：支持所有主流 AI 工具平台（ClawHub、TRAE、CodeBuddy 等）
 
 ---
 
